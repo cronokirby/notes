@@ -1,7 +1,13 @@
 {{ define "main" }}
+<div class="container">
   <p>This is the main page</p>
   {{ range .Sections }}
-    <p>{{ .Title }}</p>
-    <span>{{ .Summary }}</span>
+  <div>
+    <a href="{{ .Permalink }}">
+      <h>{{ .Title }}</h>
+    </a>
+    <p>{{ .Summary }}</p>
+  </div>
   {{ end }}
+</div>
 {{ end  }}

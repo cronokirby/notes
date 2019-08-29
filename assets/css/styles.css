@@ -150,5 +150,28 @@
 
 
 html {
+    font-size: 1.2em;
     font-family: 'Inter', serif;
+    color: #657b83;
+    background-color: #fdf6e3;
+}
+
+.container {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title {
+    color:  #586e75;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.title-link {
+    text-decoration: none;
+}
+
+.title-link h:hover {
+    color: #268bd2;
 }

@@ -3,8 +3,8 @@
   <p>This is the main page</p>
   {{ range .Sections }}
   <div>
-    <a href="{{ .Permalink }}">
-      <h>{{ .Title }}</h>
+    <a href="{{ .Permalink }}" class="title-link">
+      <h class="title">{{ .Title }}</h>
     </a>
     <p>{{ .Summary }}</p>
   </div>

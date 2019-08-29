@@ -3,8 +3,8 @@
     {{ .Content }}
       {{ range .Paginator.Pages }}
       <div>
-        <a href="{{ .Permalink }}">
-          <h>{{ .Title }}</h>
+        <a href="{{ .Permalink }}" class="title-link">
+          <h class="title">{{ .Title }}</h>
         </a>
       </div>
       {{ end }}

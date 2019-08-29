@@ -1,0 +1,7 @@
+{{ define "main" }}
+  <p>This is the main page</p>
+  {{ range .Sections }}
+    <p>{{ .Title }}</p>
+    <span>{{ .Summary }}</span>
+  {{ end }}
+{{ end  }}

@@ -1,8 +1,20 @@
 ---
-title: "Test"
+title: "Example"
 date: 2019-08-28T19:20:17-04:00
+katex: true
+markup: mmark
 draft: false
 ---
+
+# Math
+
+This is inline $$2 + 2$$ math.
+
+This is math on its new line:
+
+$$2 + x$$
+
+$$\int_{a}^{b} x^2 dx$$
 
 # Heading 1
 

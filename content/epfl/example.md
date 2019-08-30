@@ -16,6 +16,17 @@ $$2 + x$$
 
 $$\int_{a}^{b} x^2 dx$$
 
+# Code
+Here's some code highlighting:
+
+```scala
+object HelloWorld {
+  def main(args: Array[String]): Unit = {
+    println("Hello, world!")
+  }
+}
+```
+
 # Heading 1
 
 Call me Ishmael. Some years ago—never mind how long precisely—having

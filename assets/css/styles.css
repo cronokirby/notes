@@ -175,3 +175,10 @@ html {
 .title-link h:hover {
     color: #268bd2;
 }
+
+pre {
+  border-radius: 10px;
+  padding: 10px;
+  font-family: 'Iosevka', monospace;
+  font-size: 1.1em;
+}

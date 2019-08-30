@@ -1,2 +1,4 @@
 languageCode = "en-us"
 title = "A collection of notes"
+pygmentsCodeFences = true
+pygmentsStyle = "solarized-light"

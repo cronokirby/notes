@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A collection of notes</title>
+    <link>/</link>
+    <description>Recent content on A collection of notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Aug 2019 19:20:17 -0400</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Example</title>
+      <link>/epfl/example/</link>
+      <pubDate>Wed, 28 Aug 2019 19:20:17 -0400</pubDate>
+      
+      <guid>/epfl/example/</guid>
+      <description>Math This is inline \(2 + 2\) math.
+This is math on its new line:
+\[2 + x\]
+\[\int_{a}^{b} x^2 dx\]
+Code Here&#39;s some code highlighting:
+object HelloWorld { def main(args: Array[String]): Unit = { println(&amp;#34;Hello, world!&amp;#34;) } } Heading 1 Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world.</description>
+    </item>
+    
+  </channel>
+</rss>

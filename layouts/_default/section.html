@@ -1,6 +1,7 @@
 {{ define "main" }}
 <div class="container content">
     {{ .Content }}
+    <hr>
       {{ range sort .Paginator.Pages "Title" }}
       <div class="page-info">
         <a href="{{ .Permalink }}" class="title-link small-title">

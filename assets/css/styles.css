@@ -156,6 +156,12 @@ html {
     background-color: #fdf6e3;
 }
 
+hr {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  color: #657b83;
+}
+
 .container {
     width: 600px;
     margin-left: auto;

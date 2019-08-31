@@ -1,8 +1,10 @@
 {{ define "main" }}
 <div class="container">
-  <p>This is the main page</p>
-  {{ range .Sections }}
   <div>
+    {{ .Content }}
+  </div>
+  {{ range .Sections }}
+  <div class="section-card">
     <a href="{{ .Permalink }}" class="title-link">
       <h class="title">{{ .Title }}</h>
     </a>

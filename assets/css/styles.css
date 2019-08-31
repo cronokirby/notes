@@ -168,8 +168,13 @@ html {
 }
 
 .page-info p {
-  padding-top: 4px;
   margin: 0px;
+  margin-top: 4px;
+}
+
+.section-card p {
+  margin: 0px;
+  margin-top: 4px;
 }
 
 .title {

@@ -172,6 +172,10 @@ html {
     text-decoration: none;
 }
 
+.small-title {
+  font-size: 0.7em;
+}
+
 .title-link h:hover {
     color: #268bd2;
 }

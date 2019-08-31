@@ -178,6 +178,11 @@ hr {
   margin-top: 4px;
 }
 
+.section-card {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
 .section-card p {
   margin: 0px;
   margin-top: 4px;

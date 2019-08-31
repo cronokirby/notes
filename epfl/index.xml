@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>EPFL on A collection of notes</title>
-    <link>/epfl/</link>
+    <link>https://cronokirby.github.io/notes/epfl/</link>
     <description>Recent content in EPFL on A collection of notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Aug 2019 19:20:17 -0400</lastBuildDate>
     
-	<atom:link href="/epfl/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://cronokirby.github.io/notes/epfl/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Example</title>
-      <link>/epfl/example/</link>
+      <link>https://cronokirby.github.io/notes/epfl/example/</link>
       <pubDate>Wed, 28 Aug 2019 19:20:17 -0400</pubDate>
       
-      <guid>/epfl/example/</guid>
+      <guid>https://cronokirby.github.io/notes/epfl/example/</guid>
       <description>Math This is inline \(2 + 2\) math.
 This is math on its new line:
 \[2 + x\]

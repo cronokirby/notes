@@ -1,28 +1,77 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A collection of notes</title>
+    <title>Main page on A collection of notes</title>
     <link>https://cronokirby.github.io/notes/</link>
-    <description>Recent content on A collection of notes</description>
+    <description>Recent content in Main page on A collection of notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Aug 2019 19:20:17 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2019 14:26:23 -0400</lastBuildDate>
     
 	<atom:link href="https://cronokirby.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Example</title>
-      <link>https://cronokirby.github.io/notes/epfl/example/</link>
-      <pubDate>Wed, 28 Aug 2019 19:20:17 -0400</pubDate>
+      <title>COM 208: Computer Networks</title>
+      <link>https://cronokirby.github.io/notes/epfl/com-208/</link>
+      <pubDate>Sat, 31 Aug 2019 13:53:45 -0400</pubDate>
       
-      <guid>https://cronokirby.github.io/notes/epfl/example/</guid>
-      <description>Math This is inline \(2 + 2\) math.
-This is math on its new line:
-\[2 + x\]
-\[\int_{a}^{b} x^2 dx\]
-Code Here&#39;s some code highlighting:
-object HelloWorld { def main(args: Array[String]): Unit = { println(&amp;#34;Hello, world!&amp;#34;) } } Heading 1 Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world.</description>
+      <guid>https://cronokirby.github.io/notes/epfl/com-208/</guid>
+      <description>&lt;p&gt;&amp;ldquo;This course provides an introduction to computer networks. It describes the principles that underly modern network operation and illustrates them using the Internet as an example.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>PHYS 114: Electromagnetism</title>
+      <link>https://cronokirby.github.io/notes/epfl/phys-114/</link>
+      <pubDate>Sat, 31 Aug 2019 13:15:58 -0400</pubDate>
+      
+      <guid>https://cronokirby.github.io/notes/epfl/phys-114/</guid>
+      <description>&lt;p&gt;&amp;ldquo;The course first develops the basic laws of electricity and magnetism and illustrates the use in understanding various electromagnetic phenomena.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CS 210: Functional Programming</title>
+      <link>https://cronokirby.github.io/notes/epfl/cs-210/</link>
+      <pubDate>Sat, 31 Aug 2019 13:14:48 -0400</pubDate>
+      
+      <guid>https://cronokirby.github.io/notes/epfl/cs-210/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Understanding of the principles and applications of declaratative programming, the fundamental models of program execution, application of fundamental methods of program composition,meta-programming through the construction of interpreters and advanced programming techniques.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>HUM 265: Anthropologie de l&#39;Asie Orientale</title>
+      <link>https://cronokirby.github.io/notes/epfl/hum-265/</link>
+      <pubDate>Sat, 31 Aug 2019 13:14:33 -0400</pubDate>
+      
+      <guid>https://cronokirby.github.io/notes/epfl/hum-265/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Cet enseignement aborde les notions et thèmes relatifs aux cultures et sociétés des mondes chinois ainsi que de ses aires voisines (la Corée et le Japon) et discute de leurs enjeux actuels dans une perspective historique et comparative.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MATH 203: Analyse III</title>
+      <link>https://cronokirby.github.io/notes/epfl/math-203/</link>
+      <pubDate>Sat, 31 Aug 2019 13:14:21 -0400</pubDate>
+      
+      <guid>https://cronokirby.github.io/notes/epfl/math-203/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Le cours étudie les concepts fondamentaux de l&amp;rsquo;analyse vectorielle et l&amp;rsquo;analyse de Fourier en vue de leur utilisation pour résoudre des problèmes pluridisciplinaires d&amp;rsquo;ingénierie scientifique.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CS 250: Algorithms</title>
+      <link>https://cronokirby.github.io/notes/epfl/cs-250/</link>
+      <pubDate>Sat, 31 Aug 2019 13:10:18 -0400</pubDate>
+      
+      <guid>https://cronokirby.github.io/notes/epfl/cs-250/</guid>
+      <description>&lt;p&gt;&amp;ldquo;The students learn the theory and practice of basic concepts and techniques in algorithms. The course covers mathematical induction, techniques for analyzing algorithms, elementary data structures, major algorithmic paradigms such as dynamic programming, sorting and searching, and graph algorithms.&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CS 208: Computer Architecture</title>
+      <link>https://cronokirby.github.io/notes/epfl/cs-208/</link>
+      <pubDate>Sat, 31 Aug 2019 11:55:43 -0400</pubDate>
+      
+      <guid>https://cronokirby.github.io/notes/epfl/cs-208/</guid>
+      <description>&lt;p&gt;&amp;ldquo;The course introduces the students to the basic notions of computer architecture and, in particular, to the choices of the Instruction Set Architecture and to the memory hierarchy of modern systems.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     
   </channel>

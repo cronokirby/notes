@@ -2,7 +2,7 @@
 <div class="container content">
     {{ .Content }}
       {{ range sort .Paginator.Pages "Title" }}
-      <div>
+      <div class="page-info">
         <a href="{{ .Permalink }}" class="title-link small-title">
           <h class="title">{{ .Title }}</h>
         </a>

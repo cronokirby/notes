@@ -162,6 +162,16 @@ html {
     margin-right: auto;
 }
 
+.page-info {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.page-info p {
+  padding-top: 4px;
+  margin: 0px;
+}
+
 .title {
     color:  #586e75;
     font-size: 2em;

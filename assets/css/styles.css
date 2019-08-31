@@ -163,9 +163,12 @@ hr {
 }
 
 .container {
-    width: 600px;
     margin-left: auto;
     margin-right: auto;
+}
+
+@media screen and (min-width: 650px) {
+  .container { width: 650px; }
 }
 
 .page-info {

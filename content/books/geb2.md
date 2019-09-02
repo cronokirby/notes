@@ -1,6 +1,8 @@
 ---
 title: "Godel, Escher, Bach"
 ---
+The deep connections of Music, Art, and Logic.
+<!--more-->
 
 # Introduction: A Musico-Logical Offering
 
